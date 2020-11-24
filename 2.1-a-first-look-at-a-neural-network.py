@@ -14,7 +14,7 @@
 
 # %%
 import tensorflow as tf
-
+tf.__version__
 
 # %% [markdown]
 # # A first look at a neural network
